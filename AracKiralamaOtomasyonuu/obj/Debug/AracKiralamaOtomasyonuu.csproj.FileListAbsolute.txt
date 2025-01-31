@@ -1,0 +1,14 @@
+C:\Users\gokib\source\repos\AracKiralamaOtomasyonuu\AracKiralamaOtomasyonuu\bin\Debug\AracKiralamaOtomasyonuu.exe.config
+C:\Users\gokib\source\repos\AracKiralamaOtomasyonuu\AracKiralamaOtomasyonuu\bin\Debug\AracKiralamaOtomasyonuu.exe
+C:\Users\gokib\source\repos\AracKiralamaOtomasyonuu\AracKiralamaOtomasyonuu\bin\Debug\AracKiralamaOtomasyonuu.pdb
+C:\Users\gokib\source\repos\AracKiralamaOtomasyonuu\AracKiralamaOtomasyonuu\obj\Debug\AracKiralamaOtomasyonuu.csproj.AssemblyReference.cache
+C:\Users\gokib\source\repos\AracKiralamaOtomasyonuu\AracKiralamaOtomasyonuu\obj\Debug\AracKiralamaOtomasyonuu.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokib\source\repos\AracKiralamaOtomasyonuu\AracKiralamaOtomasyonuu\obj\Debug\AracKiralamaOtomasyonuu.Form1.resources
+C:\Users\gokib\source\repos\AracKiralamaOtomasyonuu\AracKiralamaOtomasyonuu\obj\Debug\AracKiralamaOtomasyonuu.Properties.Resources.resources
+C:\Users\gokib\source\repos\AracKiralamaOtomasyonuu\AracKiralamaOtomasyonuu\obj\Debug\AracKiralamaOtomasyonuu.csproj.GenerateResource.cache
+C:\Users\gokib\source\repos\AracKiralamaOtomasyonuu\AracKiralamaOtomasyonuu\obj\Debug\AracKiralamaOtomasyonuu.csproj.CoreCompileInputs.cache
+C:\Users\gokib\source\repos\AracKiralamaOtomasyonuu\AracKiralamaOtomasyonuu\obj\Debug\AracKiralamaOtomasyonuu.exe
+C:\Users\gokib\source\repos\AracKiralamaOtomasyonuu\AracKiralamaOtomasyonuu\obj\Debug\AracKiralamaOtomasyonuu.pdb
+C:\Users\gokib\source\repos\AracKiralamaOtomasyonuu\AracKiralamaOtomasyonuu\obj\Debug\AracKiralamaOtomasyonuu.Giris.resources
+C:\Users\gokib\source\repos\AracKiralamaOtomasyonuu\AracKiralamaOtomasyonuu\obj\Debug\AracKiralamaOtomasyonuu.AnaForm.resources
+C:\Users\gokib\source\repos\AracKiralamaOtomasyonuu\AracKiralamaOtomasyonuu\obj\Debug\AracKiralamaOtomasyonuu.Personeller.resources
